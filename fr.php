@@ -1,5 +1,6 @@
 <?php
 define('LANGUAGE', 'fr');
+define('DIR', 'ltr');
 define('SLOGAN', 'L\'hébergement de fichiers en toute simplicité');
 define('DESCRIPTION', 'Hébergement de fichiers sans compte et sans limites. Partagez des fichiers facilement et gratuitement sur Starfiles.');
 define('SELECTFILE', 'Sélectionnez un fichier');
@@ -52,7 +53,7 @@ define('REPORT', 'Signaler le fichier');
 define('SAVE', 'Sauvegarder');
 define('TRANSLATORS', 'Traducteurs');
 define('BLUE', 'Bleu');
-define('GREEN', 'Vert');
+define('LIME', 'Citron Vert');
 define('PINK', 'Rose');
 define('RED', 'Rouge');
 define('OCEAN', 'Océan');
