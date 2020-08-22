@@ -53,7 +53,7 @@ define('REPORT', 'Signaler le fichier');
 define('SAVE', 'Sauvegarder');
 define('TRANSLATORS', 'Traducteurs');
 define('BLUE', 'Bleu');
-define('LIME', 'Citron Vert');
+define('LIME', 'Citron vert');
 define('PINK', 'Rose');
 define('RED', 'Rouge');
 define('OCEAN', 'Océan');
